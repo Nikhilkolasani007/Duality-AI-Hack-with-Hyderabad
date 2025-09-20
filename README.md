@@ -60,3 +60,37 @@ This is the **main repository**. The full project is organized into three parts:
 The best model weights are saved at:
 
 runs/detect/train5/weights/best.pt
+
+---
+
+## 📑 Submission Files
+
+- **Final Report (PDF/DOCX):** [Download Here](https://drive.google.com/your-report-link)  
+- **Final PPT (Hackathon Presentation):** [Download Here](https://drive.google.com/your-ppt-link)  
+
+---
+
+## ⚙️ Tech Stack
+
+- **YOLOv8 (Ultralytics)**
+- **Python 3.13, PyTorch 2.7.1**
+- **React + Pocketbase** (Web App)
+- **Google Drive + GitHub** (Storage and Version Control)
+
+---
+
+## 🚀 How to Reproduce
+
+Follow individual instructions in each repo:
+
+- [Model Repo README](https://github.com/YourUsername/Model-Repo)  
+- [Application Repo README](https://github.com/YourUsername/Application-Repo)  
+
+---
+
+## 🏆 Hackathon Context
+
+- Organized as part of **HackWithHyderabad**.  
+- Submission includes code, trained models, application, PPT, and detailed report.  
+
+---
