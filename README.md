@@ -55,5 +55,8 @@ This is the **main repository**. The full project is organized into three parts:
   - mAP50: **0.800**  
   - mAP50-95: **0.668**  
 
-Weights saved in:  
-'''runs/detect/train5/weights/best.pt'''
+## Weights
+
+The best model weights are saved at:
+
+runs/detect/train5/weights/best.pt
