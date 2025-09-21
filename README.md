@@ -38,7 +38,7 @@ This is the **main repository**. The full project is organized into three parts:
    - Runs inference using the trained model.  
    - Instructions for running the app are in the app repo’s README.  
 
-3. **Google Drive Dataset & Outputs** → [🔗 Google Drive Link]  
+3. **Google Drive Dataset & Outputs** → [🔗 [(https://drive.google.com/drive/folders/1Wjqs00RQ_eAIpfaxOY3tlJWpY-EV51Si?usp=sharing)]]  
    - Contains full dataset (~12GB), training logs, and `runs/` outputs.  
 
 ---
