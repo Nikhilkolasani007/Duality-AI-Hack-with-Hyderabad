@@ -1,5 +1,5 @@
 # Duality AI – Astronaut Safety Object Detection  
-
+## A small Video About Project https://youtu.be/l8rPhLNtcz4
 ## 📌 Overview  
 This project was developed for the **HackWithHyderabad Hackathon (Duality AI Problem Statement)**.  
 We built an **AI-powered object detection system** that ensures astronaut safety inside space stations by detecting **7 critical safety objects in real-time**:  
