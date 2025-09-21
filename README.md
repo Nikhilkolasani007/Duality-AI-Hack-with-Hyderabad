@@ -29,7 +29,7 @@ The system is trained on the provided dataset and integrated into a **web applic
 
 This is the **main repository**. The full project is organized into three parts:  
 
-1. **Model Training Repository** → [🔗 [Model Repo Link](https://github.com/Nikhilkolasani007/Model-Training-Repositor-Duality-AI-Astronaut-Safety-Object-Detection.git)]  
+1. **Model Training Repository** → [🔗 [(https://github.com/Nikhilkolasani007/Model-Training-Repositor-Duality-AI-Astronaut-Safety-Object-Detection.git)]  
    - Contains YOLOv8 training scripts, config files, and trained weights (`best.pt`).  
    - Instructions for reproducing training are in the model repo’s README.  
 
