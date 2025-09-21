@@ -65,8 +65,9 @@ runs/detect/train5/weights/best.pt
 
 ## 📑 Submission Files
 
-- **Final Report (PDF/DOCX):** [Download Here]([https://drive.google.com/your-report-link](https://drive.google.com/file/d/11vdI6d-UTDrtSEIEakrmXHe7C2rRdvV5/view?usp=sharing))  
-- **Final PPT (Hackathon Presentation):** [Download Here]([https://drive.google.com/your-ppt-link](https://docs.google.com/presentation/d/1FkoZNPVilpVrCPVMKHrqSPd8aenUM4OZ/edit?usp=sharing&ouid=108640631146631912961&rtpof=true&sd=true))  
+- **Final Report (PDF/DOCX):** [Download Here](https://drive.google.com/file/d/11vdI6d-UTDrtSEIEakrmXHe7C2rRdvV5/view?usp=sharing)
+- **Final PPT (Hackathon Presentation):** [Download Here](https://docs.google.com/presentation/d/1FkoZNPVilpVrCPVMKHrqSPd8aenUM4OZ/edit?usp=sharing&ouid=108640631146631912961&rtpof=true&sd=true)
+
 
 ---
 
