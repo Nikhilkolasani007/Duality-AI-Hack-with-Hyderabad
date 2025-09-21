@@ -33,7 +33,7 @@ This is the **main repository**. The full project is organized into three parts:
    - Contains YOLOv8 training scripts, config files, and trained weights (`best.pt`).  
    - Instructions for reproducing training are in the model repo’s README.  
 
-2. **Application Repository** → [🔗 Application Repo Link]  
+2. **Application Repository** → [🔗[(https://github.com/Nikhilkolasani007/Application-Repository-with-Trained-Model)]  
    - Flask + React web app.  
    - Runs inference using the trained model.  
    - Instructions for running the app are in the app repo’s README.  
